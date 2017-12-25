@@ -1,1 +1,5 @@
-http://terminal.sexy/#Hx8f8PDwHx8f0SBGdKgT_IYXQYPEb1urUOjUqqqqT09P_DBcqeFD_exaaqTelILJff3u8PDw
+Vice
+====
+
+This is a work in progess and currently only contains the base16 version of the
+scheme. 
