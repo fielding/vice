@@ -80,15 +80,23 @@ endfunction
 " let s:darkgrey    = { 'gui': '#676767', 'cterm': '241' }
 " let s:warmgrey    = { 'gui': '#75715E', 'cterm': '59' }
 
+" let s:black         = { 'gui': '#181818', 'cterm': '0' }
+" let s:darkgray1     = { 'gui': '#212121', 'cterm': '8' }
+" let s:darkgray2     = { 'gui': '#3E3E3E', 'cterm': '10' }
+" let s:gray1         = { 'gui': '#696969', 'cterm': '11' }
+" let s:gray2         = { 'gui': '#969696', 'cterm': '12' }
+" let s:lightgray1    = { 'gui': '#C7C7C7', 'cterm': '14' }
+" let s:lightgray2    = { 'gui': '#EDEDED', 'cterm': '7' }
+" let s:white         = { 'gui': '#FAFAFA', 'cterm': '15' }
 
-let s:black         = { 'gui': '#181818', 'cterm': '0' }
-let s:darkgray1     = { 'gui': '#212121', 'cterm': '8' }
-let s:darkgray2     = { 'gui': '#3E3E3E', 'cterm': '10' }
-let s:gray1         = { 'gui': '#696969', 'cterm': '11' }
-let s:gray2         = { 'gui': '#969696', 'cterm': '12' }
-let s:lightgray1    = { 'gui': '#C7C7C7', 'cterm': '14' }
-let s:lightgray2    = { 'gui': '#EDEDED', 'cterm': '7' }
-let s:white         = { 'gui': '#FAFAFA', 'cterm': '15' }
+let s:black         = { 'gui': '#18191F', 'cterm': '0' }
+let s:darkgray1     = { 'gui': '#212228', 'cterm': '8' }
+let s:darkgray2     = { 'gui': '#3E3F45', 'cterm': '10' }
+let s:gray1         = { 'gui': '#696A70', 'cterm': '11' }
+let s:gray2         = { 'gui': '#96979D', 'cterm': '12' }
+let s:lightgray1    = { 'gui': '#C7C8CE', 'cterm': '14' }
+let s:lightgray2    = { 'gui': '#EDEEF4', 'cterm': '7' }
+let s:white         = { 'gui': '#FAFBFF', 'cterm': '15' }
 
 " 30 degree spaced
 " let s:cyan        = { 'gui': '#31FCDA', 'cterm': '6' }
@@ -100,7 +108,7 @@ let s:white         = { 'gui': '#FAFAFA', 'cterm': '15' }
 " let s:yellow      = { 'gui': '#FCDA31', 'cterm': '3' }
 " let s:green       = { 'gui': '#53FC31', 'cterm': '2' }
 
-"45 degree spaced
+"45 degree space
 " let s:cyan        = { 'gui': '#31FCDA', 'cterm': '6' }
 " let s:blue        = { 'gui': '#3186FC', 'cterm': '4' }
 " let s:violet      = { 'gui': '#7531FC', 'cterm': '5' }
